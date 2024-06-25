@@ -1,0 +1,31 @@
+{
+  "name": "secure_userapi_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "Server is running on 5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaddyp/Secure_UserAPI_Node.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Express",
+    "JWT",
+    "Authentication",
+    "Authorization",
+    "Middleware",
+    "Routing",
+    "Mysql",
+    "Git"
+  ],
+  "author": "Kaddyp2805",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kaddyp/Secure_UserAPI_Node/issues"
+  },
+  "homepage": "https://github.com/Kaddyp/Secure_UserAPI_Node#readme",
+  "description": ""
+}
